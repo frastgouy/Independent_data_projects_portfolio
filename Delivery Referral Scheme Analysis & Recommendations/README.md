@@ -1,10 +1,10 @@
 README
-Assessing the effectiveness of a food delivery company’s Referral scheme.
+- Assessing the effectiveness of a food delivery company’s Referral scheme.
 
 
 
 CONTEXT
-You are given data on the referral scheme for riders of a food delivery company.
+- You are given data on the referral scheme for riders of a food delivery company.
 
 
 
